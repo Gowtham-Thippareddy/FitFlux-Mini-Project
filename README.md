@@ -1,4 +1,4 @@
-🚀 Mini Project Showcase – Gym Website (FitFlux)
+🚀 Mini Project – Gym Website (FitFlux)
 
 I recently built a responsive gym website as a mini front-end project using HTML, CSS, and JavaScript. The goal of this project was to strengthen my core web development skills by designing a clean user interface and creating a structured multi-section layout.
 
